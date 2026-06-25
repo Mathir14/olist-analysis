@@ -278,36 +278,6 @@ Includes
 
 ---
 
-# Repository Structure
-
-```
-olist-marketplace-analysis/
-
-│
-├── raw/
-│   └── CSV datasets
-│
-├── data_preparation/
-│   ├── Data ingestion
-│   ├── Data profiling
-│   └── Data normalization
-│
-├── data_analysis/
-│   ├── Seller performance
-│   ├── Delivery performance
-│   └── Customer satisfaction
-│
-├── plots/
-│
-├── dashboard/
-│
-├── requirements.txt
-│
-└── README.md
-```
-
----
-
 # Key Insights
 
 ### Marketplace
